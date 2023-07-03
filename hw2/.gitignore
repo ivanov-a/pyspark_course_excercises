@@ -3,3 +3,5 @@ notebooks/spark-warehouse
 .pytest_cache
 datasets
 .idea
+__pycache__
+.vscode
